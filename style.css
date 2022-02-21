@@ -207,11 +207,6 @@ p {
   color: var(--on-background);
 }
 
-.fas:hover {
-  transition: 2s;
-  transform: rotate(90deg);
-}
-
 .theme-switch {
   display: inline-block;
   height: 34px;
